@@ -53,7 +53,8 @@ For å forstå metoden:
 
 1. Les [hva metoden er](docs/01-hva-er-iterativ-ai-orkestrering.md).
 2. Les [arbeidsflyten](docs/02-arbeidsflyt.md).
-3. Les [AI-SKILLS som metodebase](docs/04-ai-skills-som-metodebase.md).
+3. Les [AI-SKILLS enkelt forklart](docs/12-ai-skills-enkelt-forklart.md).
+4. Les [AI-SKILLS som metodebase](docs/04-ai-skills-som-metodebase.md).
 
 For å bruke metoden i et prosjekt:
 
@@ -93,6 +94,8 @@ Den kan beskrive:
 - hvordan resultatet bør vurderes
 
 En AI-SKILL er altså ikke bare en prompt. Den er mer som en liten metodebit som kan brukes igjen i flere prosjekter.
+
+Se [AI-SKILLS enkelt forklart](docs/12-ai-skills-enkelt-forklart.md) for en mer pedagogisk forklaring med små eksempler.
 
 ## Små eksempler
 

@@ -4,6 +4,8 @@ AI-SKILLS er den felles metodebasen som prosjektene bruker og forbedrer.
 
 Den skal ikke være et lager for tilfeldige tips. Den skal samle prompts, regler, arbeidsflyter, maler og erfaringer som faktisk kan brukes igjen.
 
+Hvis begrepet er nytt, start med `docs/12-ai-skills-enkelt-forklart.md`.
+
 ## Rollen til AI-SKILLS
 
 | Rolle | Betydning |
