@@ -1,0 +1,21 @@
+# OS og editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Midlertidige filer
+*.tmp
+*.temp
+~$*.docx
+
+# Logger og cache
+*.log
+.cache/
+
+# Bygg og avhengigheter hvis repoet senere får kode
+node_modules/
+dist/
+build/
+__pycache__/
+.pytest_cache/
