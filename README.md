@@ -121,6 +121,42 @@ AI-SKILLS
 
 Bruk [AI-SKILLS-rutekortet](templates/ai-skills-rutekort-mal.md) når et prosjekt skal velge hvilke skills som er relevante, og se [eksempel på AI-SKILLS-ruting](examples/eksempel-ai-skills-ruting.md) for en konkret modell.
 
+## Iterasjon som arbeidsmotor
+
+Metoden bygger på flere runder, ikke én perfekt gjennomføring.
+
+I hver runde prøver du å:
+
+1. finne hva som er uklart, svakt eller uferdig
+2. gå løs på det med riktig prompt, skill, dokumentasjon eller Codex-arbeid
+3. reflektere over hva som faktisk ble bedre
+4. analysere hva som fortsatt skurrer
+5. forbedre metode, prompt, repo eller AI-SKILLS-forslag
+
+```text
+Finn
+-> bearbeid
+-> reflekter
+-> analyser
+-> forbedre
+-> ny runde
+```
+
+Dette gjør det mulig å følge med på tidligere arbeid systematisk. Gamle prompts, beslutninger, dokumentasjon, Codex-handoff og reflection-notater blir ikke bare historikk. De blir materiale som kan vurderes på nytt og forbedres.
+
+## Små og store iterasjoner
+
+Iterasjon kan brukes på flere nivåer:
+
+| Nivå | Eksempel | Hva forbedres |
+|---|---|---|
+| Liten runde | Forbedre én prompt etter en intervjurunde. | Bedre spørsmål og klarere output. |
+| Prosjektrunde | Gå gjennom repoet etter Codex-arbeid. | Bedre dokumentasjon, struktur og handoff. |
+| Metoderunde | Sammenligne flere prosjektcase. | Bedre felles regler, maler og AI-SKILLS. |
+| Porteføljerunde | Se mønstre på tvers av mange prosjekter. | Bedre startpunkt for nye prosjekter. |
+
+Den lille konteksten handler om å forbedre noe konkret nå. Den store konteksten handler om å se mønstre over tid og justere hele arbeidsmåten.
+
 ## Minste praktiske bruk
 
 For et lite prosjekt holder dette:
