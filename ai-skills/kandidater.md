@@ -4,6 +4,14 @@ Dette dokumentet samler forslag som kan vurderes for felles AI-SKILLS.
 
 ## Høy prioritet
 
+### AI-SKILLS-ruting før prosjektstart
+
+Formål: velge et lite, relevant sett med skills før prosjektet går videre til prompt-destillering og Codex-handoff.
+
+Kilde i repo: `templates/ai-skills-rutekort-mal.md`
+
+Inspirert av: `skillset-selection-and-routing`, `project-startup-guardrails`
+
 ### Standard startprompt for intervjurunder
 
 Formål: hente ut taus kunnskap, kontekst, risiko og kvalitetskriterier før prosjektet formaliseres.
@@ -41,3 +49,11 @@ Kilde i repo: `templates/prosjektcase-mal.md`
 Formål: gjøre tilbakeføring konkret og vurderbar.
 
 Kilde i repo: `templates/ai-skills-endringsforslag-mal.md`
+
+### Råimport-regel for eksterne skill-sett
+
+Formål: sikre at store skill-bibliotek brukes som kildemateriale og ikke dumpes inn uten forklaring.
+
+Kilde i repo: `docs/11-ai-skills-set-som-kildemateriale.md`
+
+Inspirert av: `skillset-authoring-and-update-governance`, `skillset-deduplication-and-merge`, `source-backed-documentation`

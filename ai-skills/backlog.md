@@ -25,6 +25,14 @@ Behov: egen prompt som får Codex til å foreslå forbedringer for AI-SKILLS ett
 
 Status: delvis dekket av `prompts/06-reflection-og-forbedring.md`.
 
+### Metadatafelt for lokale AI-SKILLS-kandidater
+
+Behov: vurdere om lokale kandidater bør få en enkel metadataform med status, fase, inspirasjonskilde og modenhet.
+
+Inspirasjon: `AI-SKILLS-SETS-main` bruker eksplisitt metadata, tier, topic family, pack, status og relasjoner.
+
+Status: ikke innført. Dette repoet bør først teste om `ai-skills-rutekort-mal.md` er nok.
+
 ## Ikke modent ennå
 
 - egne regler for commits og pull requests

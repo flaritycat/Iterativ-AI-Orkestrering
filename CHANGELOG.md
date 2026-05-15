@@ -2,6 +2,18 @@
 
 Alle vesentlige endringer i metodebasen dokumenteres her.
 
+## 0.2.0 - 2026-05-15
+
+Analysert `AI-SKILLS-SETS-main` som kildemateriale og lagt inn avledet bruk i repoet uten råimport.
+
+Lagt til:
+
+- forklaring av hvordan `AI-SKILLS-SETS-main` kan brukes som kildelag
+- anbefalt ruting fra prosjektfaser til relevante skill-typer
+- mal for AI-SKILLS-rutekort
+- eksempel på skill-ruting i et metodeprosjekt
+- prompt for AI-SKILLS-ruting og utvalg
+
 ## 0.1.0 - 2026-05-15
 
 Initialisert repository som metodebase for Iterativ AI-orkestrering.

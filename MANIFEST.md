@@ -49,6 +49,19 @@ Prosjektarbeid + AI-verktøy + GitHub + AI-SKILLS + reflection
 - utestede regler som fremstår som fasit
 - prosjektspesifikke detaljer uten læringsverdi
 - prompts som ikke kan gjenbrukes eller forbedres
+- råimport av hele eksterne skill-bibliotek uten lokal forklaring og utvalg
+
+## Bruk av eksterne skill-sett
+
+Eksterne skill-sett kan brukes som kildemateriale, men skal ikke dumpes inn i repoet.
+
+God bruk betyr:
+
+- velg relevante skills ut fra prosjektfase
+- forklar med egne ord hvordan de brukes
+- lag lokale eksempler og maler
+- dokumenter inspirasjon og vurdering
+- tilbakefør bare modne forslag
 
 ## Vedlikeholdsregel
 

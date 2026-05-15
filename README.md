@@ -48,7 +48,8 @@ Uten struktur blir AI-arbeid fort engangschatter, løse prompts og dokumenter so
 6. Lag Codex-handoff med [Codex-prompten](prompts/05-codex-handoff.md).
 7. Dokumenter prosjektet med [prosjektcase-malen](templates/prosjektcase-mal.md).
 8. Avslutt med [reflection og forbedring](prompts/06-reflection-og-forbedring.md).
-9. Foreslå endringer til AI-SKILLS med [tilbakeføringsmalen](templates/ai-skills-endringsforslag-mal.md).
+9. Velg relevante skills med [AI-SKILLS-rutekortet](templates/ai-skills-rutekort-mal.md).
+10. Foreslå endringer til AI-SKILLS med [tilbakeføringsmalen](templates/ai-skills-endringsforslag-mal.md).
 
 ## Repoets innhold
 
@@ -62,6 +63,14 @@ Uten struktur blir AI-arbeid fort engangschatter, løse prompts og dokumenter so
 | `ai-skills/` | Lokale kandidater, backlog og forslag før eventuell tilbakeføring til felles AI-SKILLS. |
 | `visuals/` | Liste og placeholders for figurer, diagrammer og presentasjonsvisualiseringer. |
 | `source-documents/` | Underliggende metodedokument og kildemateriale. |
+
+## Bruk av AI-SKILLS-SETS
+
+Hvis du bruker `AI-SKILLS-SETS-main` som kildemateriale, skal det ikke lastes inn rått i dette repoet.
+
+Les, analyser og oversett relevante skills til lokale forklaringer, eksempler, prompts eller maler.
+
+Start med [AI-SKILLS-SETS som kildemateriale](docs/11-ai-skills-set-som-kildemateriale.md) og se [eksempel på AI-SKILLS-ruting](examples/eksempel-ai-skills-ruting.md).
 
 ## Minste praktiske bruk
 

@@ -48,3 +48,17 @@ Et godt AI-SKILLS-forslag skal si:
 - hvordan forslaget kan testes
 
 Ikke tilbakefør alt. Tilbakefør det som har gjenbruksverdi.
+
+## Når kilden er et større skill-sett
+
+Hvis et prosjekt bruker et større skill-bibliotek som `AI-SKILLS-SETS-main`, skal prosjektet ikke kopiere alt inn i metodebasen.
+
+Bruk biblioteket som kilde for:
+
+- ruting
+- inspirasjon
+- sammenligning
+- eksempler
+- kandidatforslag
+
+Se `docs/11-ai-skills-set-som-kildemateriale.md` for anbefalt arbeidsmåte.
